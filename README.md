@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Nurmamatov Ozodbek
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Backend
-- 📫 How to reach me nurmamatovozodbek971@gmail.com
+# Hi there 👋
 
-<!---
-NurmamatovOzodbek/NurmamatovOzodbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=6000&lines=Frontend+Developer"></img>
+</p>
+
+# I'm from Uzbekistan, Karshi
+
+# Stats / Language
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurmamatovOzodbek&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurmamatovOzodbek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
