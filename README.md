@@ -12,7 +12,7 @@
 
 ### 🤝 Connect with me:
 <p align="left center">
-<a href="https://instagram.com/ozod_muhandis" target="_blank">
+<a href="https://instagram.com/ozod__nurmamatov" target="_blank">
   <img align="center" alt="ozodnur | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://t.me/Nurmamatov_Ozodbek" target="_blank">
